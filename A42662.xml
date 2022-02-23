@@ -1,0 +1,521 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eleosriabos: being England's triumphs in an hearty remembrance of that wonderfull providence which hath all along waited on the sacred person of our Augustus His Majesty William III. Until he arriv'd safe in the joyfull haven of peace. A pindarick. By T. G. Physician in Essex.</title>
+            <author>T. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42662</idno>
+            <idno type="STC">Wing G61</idno>
+            <idno type="STC">ESTC R216431</idno>
+            <idno type="EEBO-CITATION">99828162</idno>
+            <idno type="PROQUEST">99828162</idno>
+            <idno type="VID">32589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eleosriabos: being England's triumphs in an hearty remembrance of that wonderfull providence which hath all along waited on the sacred person of our Augustus His Majesty William III. Until he arriv'd safe in the joyfull haven of peace. A pindarick. By T. G. Physician in Essex.</title>
+                  <author>T. G.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Blithe, and are to be sold by Richard Baldwin near the Oxford Arms in Warwick lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698 [i.e. 1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>The first word in the title is in Greek characters.</note>
+                  <note>Annotation on the Aberdeen University Library copy: The "8" in imprint date is crossed out and replaced with "7"; "2 Nov.".</note>
+                  <note>Reproduction of the original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1694-1702 : William III)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32589:1"/>
+            <pb facs="tcp:32589:1" rendition="simple:additions"/>
+            <p>'ΕΛΕΟΘΡΙΑΜΒΟΣ: BEING England's Triumphs IN AN HEARTY REMEMBRANCE OF THAT Wonderfull Providence Which hath all along waited on the SACRED PERSON OF OUR AUGUSTUS, HIS MAJESTY WILLIAM III.</p>
+            <p>Untill He arriv'd ſafe in the Joyfull Haven of <hi>PEACE.</hi>
+            </p>
+            <p>A <hi>PINDARICK.</hi>
+            </p>
+            <q>
+               <hi>Imperium lateritium accepiſti, marmoreum reddidiſti.</hi>
+            </q>
+            <p>By <hi>T. G.</hi> Phyſician in <hi>Eſſex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Blithe,</hi> and are to be ſold by <hi>Richard Baldwin</hi> near the <hi>Oxford Arms</hi> in <hi>Warwick lane,</hi> 1696</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32589:2"/>
+            <head>
+               <hi>Sereniſſimi Principis</hi> Gulielmi Tertii <hi>Symbolum Actionum, Victoriarum, Heroicarum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> effatum, in Carmina ſuccedanca, Per</hi> Hiberniam, <hi>nec non</hi> Germaniam <hi>Inferiorem, geſtarum.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>WIllielmus</hi> ſic ora gerit; mera gloria ſecli!</l>
+               <l>Cui tot mentis opes invidet ipſa Themis.</l>
+               <l>Heroum palmare decus, quem praepete curru,</l>
+               <l>Sublimem coeli, fama per aſtra vehit.</l>
+               <l>Caetera miramur! vix auſi dicere quae ſit</l>
+               <l>In regem pietas, religio inque Deum.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="Pindaric_poem">
+            <pb n="3" facs="tcp:32589:2"/>
+            <head>ΕΛΕΟΘΡΙΑΜΒΟΣ: BEING <hi>ENGLAND</hi>'s Triumphs, &amp;c.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>BRave <hi>Albion,</hi> now take up thy Golden Lyre;</l>
+               <l>So ſhall the Sacred Nine thy Verſe inſpire</l>
+               <l>While on each Shore the Univerſe ſhall ring</l>
+               <l>The laſting Triumphs of <hi>Great Britain</hi>'s King!</l>
+               <l>Behold a Ray from Heaven breaks in,</l>
+               <l>To uſher the bright Chorus of that <note n="a" place="bottom">A Golden Age.</note> happy time,</l>
+               <l>Which Ages paſt, do ſo lament and ſay,</l>
+               <l>Time ne'er before, or ſince, dawn'd ſuch a <note n="b" place="bottom">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> before Chriſt, <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> was <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne Golden Age, ſo much <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> Day!</l>
+               <l>Till <hi>Britain</hi>'s Great <hi>NASSAW</hi> aſcends the Throne;</l>
+               <l>Such glitt'rring Suns ne'er gilt her Horizon!</l>
+               <l>He who in nobleſt Dangers underſtood</l>
+               <l>To gain our Liberties through Blood,</l>
+               <l>Purſu'd the <note n="c" place="bottom">
+                     <gap reason="illegible" resp="#OXF" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </note> Means, as proper to his Skill,</l>
+               <l>As ſoon th'exhauſted Arteries could fill;</l>
+               <l>And with his Royal Hand has broach'd the Vein</l>
+               <l>That Mitigation gave to <hi>Europe</hi>'s Pain:</l>
+               <l>And will a Series of health procure,</l>
+               <l>As Bleedings vaſt are ſtopt by clotted Gore:</l>
+               <l>So ancient Kings and Emperors have been</l>
+               <l>Enur'd to ways of Medicine,</l>
+               <l>Till they their Politicks refin'd thereby,</l>
+               <l>With Lenitives and Cordials high</l>
+               <l>Their Subjects have maintain'd in trueſt Liberty.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>What ſhou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d we have ſaid? What wou'd we not a' done</l>
+               <l>In ſome years paſt, to have quit the Nation</l>
+               <l>Of blackeſt Tempeſts drawing on,</l>
+               <l>Big with Deſigns and Deſolation?</l>
+               <pb n="4" facs="tcp:32589:3"/>
+               <l>Had not the brave <hi>Auguſtus;</hi> him I mean,</l>
+               <l>That humane Deity we call Supream,</l>
+               <l>Diſplay'd His Conqu'ring Banners o'er this Iſle.</l>
+               <l>W'had felt a ſad Exile</l>
+               <l>Of Liberty; and all that's juſt and good</l>
+               <l>Had then been ſacrific'd to Gods of Wood,</l>
+               <l>And Sence, and Reaſon to a croaking Brood.</l>
+               <l>When <hi>Egypt</hi>'s Tyrant had Heaven's Ire provok<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</l>
+               <l>And Frogs and Lice about his Palace croak'd</l>
+               <l>Sure nothing noiſomer was then,</l>
+               <l>Or plagu'd his haughty Mind like that,</l>
+               <l>When upon force he begg'd a milder Fate</l>
+               <l>So very often of the Men,</l>
+               <l>Who ſent their Plagues again,</l>
+               <l>And let that ru<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l'd Hector ſee,</l>
+               <l>Twas Heaven's Will to make the Nations free.</l>
+               <l>Such God-like Awe has <hi>England</hi>'s Scepter ſway'd,</l>
+               <l>While Prodigies her Royal Standards prop;</l>
+               <l>In Myriads of happy Days we hope,</l>
+               <l>While Heaven's prais'd, and its Vicegerent's well obey'd.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Eternal Trophies ſing thy Lot,</l>
+               <l>And to the Star that damp'd the fatal <note n="d" place="bottom">The <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>let that graz'd u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on His M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eſty <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>the ſacred Perſon—<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> obtuſam <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> Shot</l>
+               <l>So as that winged Meſſenger of Death</l>
+               <l>Cou'd no Impreſſion ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</l>
+               <l>But for thy ſake,</l>
+               <l>Its deadly Breath</l>
+               <l>Did in the Plumes of Honour ſheath,</l>
+               <l>Tho' prim'd with Dev'liſh Ire,</l>
+               <l>Thoſe Sulphurs chang'd to <note n="e" place="bottom">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> duo tela pla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>etea <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> operam, <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, facit <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> lambent <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>While the aſtoniſh'd Hoſts ſtood ſtill t'admire</l>
+               <l>The Care th' Almighty o'er his Darling had</l>
+               <l>(Whoſe Cauſe he did defend)</l>
+               <l>The force of <note n="f" place="bottom">
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> Art and Nature both ſorbad,</l>
+               <l>To bring to paſs his purpos'd end!</l>
+               <l>Why ſuch Repining then? Why ſo unjuſt</l>
+               <l>To Him, on whom Heaven lays ſo great a Truſt</l>
+               <pb n="5" facs="tcp:32589:3"/>
+               <l>Ye buſie <note n="g" place="bottom">A grand Query among the learned Theologiſts where thoſe ten Jewiſh Tribe, (who for their grumbling, <hi>&amp;c.</hi> were captiv'd by <hi>Salmanaſſer</hi> King of <hi>Aſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ria,</hi> and car<g ref="char:EOLhyphen"/>ried into the Regions of <hi>Media</hi> on the North, or North-Eaſt ſide of the <hi>Caſpian</hi> Sea) might remain: are, by the learned Enquiry of the preſent Age, found out in the Ci<g ref="char:EOLhyphen"/>ties of <hi>Tartaria,</hi> whoſe People are the Poſterity of the ten loſt Tribes, according to Dr. <hi>Geo. Flet<gap reason="illegible" resp="#OXF" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </hi> his Tractate call'd <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Redux, publiſhed by the judicious and learned <hi>Samuel Lee, Ann.</hi> 1677.</note> Seekers in the World's wide round,</l>
+               <l>Here fix your Thoughts and Feet on <hi>England</hi>'s Ground</l>
+               <l>Suffer your minds no more to be perplex'd,</l>
+               <l>While here the long loſt Tribes</l>
+               <l>Stand grumbling by your ſides,</l>
+               <l>For all whoſe Benefits, as ſaith the Text,</l>
+               <l>Ever with Murmurings Heaven ſtorm'd, as oft <hi>Jehovah</hi> vext<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Behold an Hero girt with noble Ire,</l>
+               <l>Braving the Ponyard, ſo the loudeſt Fire;</l>
+               <l>From place to place, poſting his weighty Charge,</l>
+               <l>Regardleſs of his own, with Soul ſo large,</l>
+               <l>As ever fill'd a Monarch's Breaſt.</l>
+               <l>
+                  <hi>Europe</hi>'s great <hi>Atlas,</hi> on whoſe Shoulders reſt</l>
+               <l>The tottering Diadems of Sacred Power,</l>
+               <l>Which only <hi>England</hi>'s Monarch can reſtore.</l>
+               <l>Without the Rhetorick of a Father's <note n="h" place="bottom">See the Nunclo's Oration to the <hi>French</hi> King in the State of <hi>Europe,</hi> p. 295.</note> Trope,</l>
+               <l>(In Heaven's name) leads the forlorn Hope;</l>
+               <l>And in a Brave and Generous Diſdain</l>
+               <l>Fires all his Dangers back again.</l>
+               <l>Each Element exults, and proudly boaſt</l>
+               <l>Our <hi>Gideon</hi>'s Triumphs in the God of Hoſt,</l>
+               <l>Who once the Darling Tribes through Chryſtal Walls</l>
+               <l>Had led, and Prophets three thro' Flames: he calls</l>
+               <l>Now a prodigious <note n="i" place="bottom">While our glorious Monarch was wading through the rugged S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eams at the <hi>B<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ne;</hi> and afterwards paſſing ſo many furious and fiery Fatigues at <hi>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>,</hi> and all on account of publick Peace and Safety. It was impoſſible for me to omit the Parallel in this Stanza; it having been begun and then finiſh'd at thoſe particular Seaſon, when his Sacred Majeſty was in<gap reason="illegible" resp="#OXF" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>ntly moiling thoſe unparallell'd Hazards of his Royal Perſon, in who<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of whole <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> was wrapt up.</note> Prince forth-with to ſave</l>
+               <l>Mens civil Rights, in chief, the Laws he gave;</l>
+               <l>All pure and incorrupt, now ſully'd o'er,</l>
+               <l>Scarce known by whom they were promulg'd before.</l>
+               <l>The ſwoln <hi>Boyne</hi> firſt fails and leads the way</l>
+               <l>To <hi>Namur</hi>'s Walls; all haſt without delay,</l>
+               <l>The broad <hi>N<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſavean</hi> Banners to diſplay.</l>
+            </lg>
+            <lg n="5">
+               <pb n="6" facs="tcp:32589:4"/>
+               <head>V.</head>
+               <l>Hail to the Prince before whoſe gracious Throne.</l>
+               <l>Cluſters of Scepters daily come,</l>
+               <l>And all their Royal Tributes pay,</l>
+               <l>Where true magnetick Graces ever live and ſtay,</l>
+               <l>As Suppliants to ſo divine a Ray!</l>
+               <l>Here they their Diamond Cuſps immerſe,</l>
+               <l>And wretched Tyranny diſperſe.</l>
+               <l>But Wiſdom, Courage, Princely Conſtancy,</l>
+               <l>That once had fleſh'd thoſe <note n="k" place="bottom">
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and his Celeſtial Hoſts, <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and his, <hi>&amp;c.</hi>
+                  </note> Heroes of the Sky</l>
+               <l>(And flung th' aſpiring Crew then headlong down,)</l>
+               <l>Now ſhine about fair <hi>Alb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi>'s ſtately Crown,</l>
+               <l>And may an other <note n="*" place="bottom">An Halo or Glory encompaſſing the Throne.</note> Galaxy inſpire</l>
+               <l>With <note n="l" place="bottom">Virtues that have a communicative good in them; whoſe contrarie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are moſt apt to fully, and obſcure the Regal D<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m; as theſe are to poli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h and en<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ble it with all the <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and Graces of the divine Bounty.</note> Virtues fed by true Celeſtial Fire.</l>
+               <l>While our <hi>Auguſtus,</hi> whom we love to truſt,</l>
+               <l>Still makes his martial Deeds the more auguſt:</l>
+               <l>By how much in Him, ſomething more is found,</l>
+               <l>Than wither'd Fame's loud Trumpets ſound,</l>
+               <l>Or the <hi>Arcadian</hi> 
+                  <note n="m" place="bottom">The Monoſyllable <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>(by the <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>) is taken often for a Univerality—but more <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in the <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> their God <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, at whole Death the whole frame of Di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>al Worſhip fell to the ground, along with that in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ernal Polity which lay hid in the Paga<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ora<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les.</note> 
+                  <hi>Pan</hi> had levell'd to the ground<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>I knew no better way great Acts t'have told,</l>
+               <l>Than graving Thine upon the backs of old;</l>
+               <l>Till You moſt mighty Prince my Muſe inſpir'd,</l>
+               <l>And ſuch a gratefull Zeal had fir'd,</l>
+               <l>Whoſe <note n="n" place="bottom">See to this effect a famous Story of <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to the Emperor <hi>Tilerius Caeſar,</hi> and handed down to us by the accurate Pea of the learned Mr. <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his Travels to <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, &amp;c. lib. 1. p. 11. <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> alludes both to a liquid and <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chymical Subſtance, which <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> for half a Minute of an hour <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> whatever, if ſcroll'd <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Paper, will repreſent the <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> very delightfull <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Characters, <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſelf have ſeen <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ingenious Doctor <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> which he ſome years <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the Royal Society, by the Name of the <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. Another <gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>, namely the <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and by <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                  </note> Pyramis in Shining Flame,</l>
+               <l>Blazons Thine Acts round Thy Victorious Name,</l>
+               <l>And gives ſurprizing Glories to Thy Deeds,</l>
+               <pb n="7" facs="tcp:32589:4"/>
+               <l>That when Thy Succeſſor Thy <note n="o" place="bottom">Poſitaeque ex ordine gemmae.</note> Labours reads,</l>
+               <l>As Letters ſence; ſo this its own <note n="p" place="bottom">Clara reperouſſu reddebant lumina Phoebo. Ovid. Met. lib. 2.</note> Fame breeds'</l>
+               <l>You lent an Ear to <hi>Europe</hi>'s Groan</l>
+               <l>When none beſide its Cauſe dare own</l>
+               <l>A Sacred Stem You ſlipt from off Your Throne.</l>
+               <l>Gracious it prov'd, Luxuriant and Green,</l>
+               <l>And as the Prophets Goard, a goodly Screen</l>
+               <l>Unto the Nation's Laws, their Liberty,</l>
+               <l>Their Lives, their Children, Religion</l>
+               <l>All ſhelter'd from Oppreſſion!</l>
+               <l>And alſo gave ſo great Renown to Thee,</l>
+               <l>As fixt the Univerſal Monarchy</l>
+               <l>Unto the fertil Root, from whence it ſprang,</l>
+               <l>As great Effects on Cauſes terminate and hang.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Liſten no more unto the Tales of Fame</l>
+               <l>Of <hi>Caeſar</hi> or of mighty <hi>Pompey</hi>'s Name;</l>
+               <l>Or the great King of <hi>Macedon;</hi> thoſe Scenes</l>
+               <l>Were to theſe Ends as nobler Means:</l>
+               <l>The Means of Peace, and fuller Glory,</l>
+               <l>Than Time e'er plac'd in <hi>Greek</hi> or <hi>Roman</hi> Story.</l>
+               <l>But what if <hi>Hebrew</hi> Rabbies talk of ſage</l>
+               <l>
+                  <hi>Moſes</hi> and <hi>Joſhua,</hi> famous in their Age:</l>
+               <l>Yet theſe the Shades, not Subſtance might preſage,</l>
+               <l>And ſeem'd with Verities to jeſt,</l>
+               <l>While they held earthy things in Queſt;</l>
+               <l>The Heav'n ſpir'd Zeal, that fill'd our Hero's Breaſt,</l>
+               <l>Bids him look high, ſince his Commiſſion bears</l>
+               <l>What top-moſt <note n="q" place="bottom">The Croſs that reſts upon the top of the Imperial Crown</note> ſits upon the Crown he wears,</l>
+               <l>Strengthens his Heart, and bids his Sword not ſpare</l>
+               <l>A trait'rous Crew; but let 'em feel and ſee,</l>
+               <l>(So treacherous to Heaven and Thee)</l>
+               <l>That the All Conqu'ring Banners thou doſt bear,</l>
+               <l>Shall Victims make, till they to Heaven rear</l>
+               <l>(In Concert with Thy Labours and juſt Throne)</l>
+               <l>Thy Great Allies, where Joy and Intereſt meet in One.</l>
+            </lg>
+         </div>
+         <div type="anagram">
+            <pb facs="tcp:32589:5"/>
+            <head>THE ANAGRAM Drawn from the ROYAL TITLES, <hi>Viz.</hi> William the Third, KING OF <hi>England, Scotland, France</hi> and <hi>Ireland.</hi>
+            </head>
+            <lg type="anagram">
+               <l>I, the Delight of Mankind,</l>
+               <l>I, can call redres of the Land tangled in War.</l>
+            </lg>
+            <lg>
+               <l>So ſome more Orient Gem, in Casket cloſe immur'd,</l>
+               <l>Is no more ſafe from harm, than fatally ſecur'd;</l>
+               <l>As once th' Illuſtrious Titles with thy mighty Name</l>
+               <l>Suffer'd Eclipſe in the dark Shades of written Fame,</l>
+               <l>Till Royal Acts untangl'd their ſtrict <hi>Anagram.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
